@@ -10,5 +10,5 @@ setup(name='args_catcher',
       packages=['args_catcher'],
       install_requires=[],
       setup_requires=['pytest-runner'],
-      tests_require=['pytest', 'pytest-dotenv', 'doubles'],
+      tests_require=['pytest', 'doubles'],
       zip_safe=False)
