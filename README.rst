@@ -16,4 +16,4 @@ Legal
 -----
 
 This software is released under the `MIT License <https://opensource.org/licenses/MIT>`_. 
-Copyright (c) 2018 siroop AG, Franco Sebregondi. 
+© 2018 siroop AG, Franco Sebregondi. 
