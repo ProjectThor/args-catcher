@@ -11,3 +11,9 @@ Simple python test helper that allows for catching arguments and asserting on th
         my_view.index(...)
         context = args_catcher.args[2]
         assert 'some_key' in context
+
+Legal
+-----
+
+This software is released under the `MIT License <https://opensource.org/licenses/MIT>`_. 
+Copyright (c) 2018 siroop AG, Franco Sebregondi. 
